@@ -3,7 +3,7 @@
 Small command line utility to convert simple *.DBF files to *.CSV
 
 ### Install
-
+    yum -y install python-pip
     pip install dbf2csv
 
 
